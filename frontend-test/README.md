@@ -8,7 +8,7 @@ Use this wireframe - [Page Design](https://github.com/Gurushesh-Metapercept/Asse
 
 - Design the UI layout to match the provided wireframe using **HTML** and **CSS** (or any CSS framework like Tailwind or Bootstrap, if preferred).
 
-- Use a `[Data.json](https://github.com/Gurushesh-Metapercept/Assessment/blob/main/frontend-test/class.json)` file as your source of book data.
+- Use a [Data.json](https://github.com/Gurushesh-Metapercept/Assessment/blob/main/frontend-test/class.json) file as your source of book data.
 
 
 - Display the book information in **card format**. Each card should show:
