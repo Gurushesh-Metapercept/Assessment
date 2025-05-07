@@ -2,6 +2,8 @@
 
 Create a frontend application to display course details using **React** or **Vue.js** based on a provided wireframe.
 
+Use this wireframe - [Page Design](https://github.com/Gurushesh-Metapercept/Assessment/blob/main/frontend-test/wire-frame/page-design.png)
+
 ### Requirements:
 
 - Design the UI layout to match the provided wireframe using **HTML** and **CSS** (or any CSS framework like Tailwind or Bootstrap, if preferred).
