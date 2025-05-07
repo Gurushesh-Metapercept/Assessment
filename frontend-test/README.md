@@ -10,12 +10,10 @@ Use this wireframe - [Page Design](https://github.com/Gurushesh-Metapercept/Asse
 
 - Use a [Data.json](https://github.com/Gurushesh-Metapercept/Assessment/blob/main/frontend-test/class.json) file as your source of book data.
 
-
-- Display the book information in **card format**. Each card should show:
-  - Book title
-  - Author
-  - Description (optional)
-  - Any other relevant details from `data.json`
+- Display the course information in **card format**. Each card should show:
+  - Name
+  - ShortDesc
+  - Image (optional)
 
 - Implement reusable components for cards (and optionally, layout).
 
